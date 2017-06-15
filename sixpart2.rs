@@ -1,5 +1,5 @@
 // write!(f "{}", value)?
-
+// no idea
 use std::fmt; // import 'fmt' module
 
 struct List(Vec<i32>);
