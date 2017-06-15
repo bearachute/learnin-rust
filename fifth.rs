@@ -1,5 +1,6 @@
 use std::fmt; // Import 'fmt'
 
+// simple
 // A structure holding 2 numbers. 'Debug' will be derived so the results 
 // can be constrasted with 'Display'
 #[derive(Debug)]
