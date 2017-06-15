@@ -1,5 +1,3 @@
-# some rust learnin
-there's more to it than that
-this is really simple and i barely made it through the exercises
+** READ THIS **
 
-why is programming herd ?!??!?
+there's really nothing here but rust stuff, i'm learning how to git too. 
